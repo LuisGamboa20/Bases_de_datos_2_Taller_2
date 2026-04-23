@@ -1,0 +1,28 @@
+{
+    "_id": 1,
+    "nombre": "Carlos Gómez",
+    "documento": "12345678",
+    "fecha_nacimiento": "1990-05-15",
+    "direccion": {
+        "departamento": "Cundinamarca",
+        "ciudad": "Bogotá",
+        "direccion": "Calle 123 #45-67"
+    },
+    "email": "Carlos_Gomez@gmail.com",
+    "telefono": "3001234567",
+    "redes_sociales": {
+        "twitter": "@Carlos Gómez",
+        "facebook": "Carlos Gómez",
+        "instagram": "Carlos Gómez",
+    "email": "carlos@gmail.com",
+    "telefono": "3001234567",
+    "redes_sociales": {
+        "twitter": "@carlosgomez",
+        "facebook": "carlosgomez",
+        "instagram": "carlosgomez"
+    },
+    "fecha_registro": "2024-01-01",
+    "estado": "activo"
+}
+
+}
